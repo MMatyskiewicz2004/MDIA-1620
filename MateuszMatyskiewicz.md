@@ -19,9 +19,6 @@ One word you're feeling
 -----------------------
 Github is just one place that you can use a user interface to view your changes
 ----------------------
-1 point for attendance
-1 point for watching
-/12
 
 40% lab
 30% midterm
@@ -29,4 +26,17 @@ Github is just one place that you can use a user interface to view your changes
 
 ![Philly Cheese Steak Sandwich is my favourite sandwich](https://www.spoonforkbacon.com/wp-content/uploads/2021/10/philly_cheesesteak_recipe-card.jpg)
 
+9/20/2024
+
+AHA moments
+1. I've learned how to using GitHub commits and uploads using the terminal.
+2. Learned a little coding such as "let" and "console.log"
+3. Learned about the Camel method thing where capital letters do matter when it comes to coding.
+-------------------------------------------------------------------------------------------------------
+Things you are unclear about
+1. How to change my file back to "README" instead of it being just my name.
+2. Using the terminal during the lab was a little confusing but I think it's just that I need practise to get the grasp of it.
+-------------------------------------------------------------------------------------------------------
+One word of how you're feeling
+1. Excited or intrigued about what we are learning, a little lost sometimes but its been interesting.
 
