@@ -2,7 +2,7 @@
 
 Mateusz Matyskiewicz
 -------------------------
-This is a **GREAT** repository sooo *sigma*
+This is a **GREAT** repository sooo *cool*
 > "Here is a cool quote"
 -------------------------
 AHA moments
