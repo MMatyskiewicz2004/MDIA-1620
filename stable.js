@@ -31,5 +31,13 @@ console.log(false + "NaN");
 console.log(false + 2)// type coercion
 
 console.log("The stable monthly fee is " + STABLE_MONTHLY_FEE);
-console.log("My horse's name is "${horseName}" and he is "${horseAge}" years old!"); //${hello} stead of using the "+"
+console.log(`My horse's name is ${horseName}" and he is "${horseAge}" years old!`); //${hello} stead of using the "+"
 // speelcheck plugin <--- try it out
+
+//LAB 4 Stuff here
+
+let horseNickname = "Mike";
+console.log(`my horse's name is ${horseNickname}`);
+
+const MONTHLY_FEE=100;
+console.log(`I would save 10% discount of $${MONTHLY_FEE/10 * 3} if I stay 3 months `);
