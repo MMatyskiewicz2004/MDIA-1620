@@ -1,7 +1,7 @@
 //LESSON-3CODE
 let horseName = "Estabon";
 console.log(horseName);
-horseName = "Justin";
+// horseName = "Justin";
 console.log(horseName)
 
 let horseAge = 5;
@@ -11,7 +11,7 @@ let isHorseInside = true;
 console.log(isHorseInside);
 
 //LESSON-4 CODE
-//try and end codes with ";"
+//try to end codes with ";"
 console.log(typeof horseName);
 console.log(typeof horseAge);
 const STABLE_MONTHLY_FEE = 420; //"const" can update value, Uppercase is preffered
@@ -41,3 +41,10 @@ console.log(`my horse's name is ${horseNickname}`);
 
 const MONTHLY_FEE=100;
 console.log(`I would save 10% discount of $${MONTHLY_FEE/10 * 3} if I stay 3 months `);
+
+
+//LAB 5 Stuff Here
+
+if (horseName === "Estabon" && isHorseInside !== true){
+    console.log(`My horse ${horseName} is inside the stable!`);}
+        else {console.log(`${horseName} is not outside!`);}
