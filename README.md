@@ -2,7 +2,7 @@
 
 Mateusz Matyskiewicz
 -------------------------
-This is a **GREAT** repository sooo *sigma*
+This is a **GREAT** repository sooo *cool*
 > "Here is a cool quote"
 -------------------------
 AHA moments
@@ -40,3 +40,17 @@ Things you are unclear about
 One word of how you're feeling
 1. Excited or intrigued about what we are learning, a little lost sometimes but its been interesting.
 
+LAB 6
+10/11/2024
+
+AHA moments
+1. Im getting a better understanding of branches and using git commands with the terminal
+2. I'm also understanding more about the "console.log" and "let"
+3. I think I have a good understanding of ARRAYS and using the "something.length" things and pushing
+-------------------------------------------------------------------------------------------------------
+Things you are unclear about
+1. Still don't have a great understanding of the "if" statements
+2. I also don't really completly understand the "else" statments too
+-------------------------------------------------------------------------------------------------------
+One word of how you're feeling
+1. Okay :) 

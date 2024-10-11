@@ -48,3 +48,50 @@ console.log(`I would save 10% discount of $${MONTHLY_FEE/10 * 3} if I stay 3 mon
 if (horseName === "Estabon" && isHorseInside !== true){
     console.log(`My horse ${horseName} is inside the stable!`);}
         else {console.log(`${horseName} is not outside!`);}
+
+//Lesson 6
+// Horse = ["name", age, isInside, "nickname"]
+let horseNames = [horseName, "Edger", "Gooner"];
+let horseAges = [horseAge, 2, 10]
+let horseLocations = [isHorseInside, false, true];
+let crazyArray = [isHorseInside, "hi " + " there"];
+console.log(horseNames.length); //lists the number of things in the "horseNames" Array
+console.log(`Welcome to my stables! There are ${horseNames.length} horses staying here! Their names are : ${horseNames[0]}, ${horseNames[1]}, ${horseNames[2]}`);
+console.log("Welcome to Goontown, there are " + horseNames.length + " horses staying here!");
+// console.log(horseAges [2])
+// console.log(horseLocation [2])
+if(horseLocations[2]){
+    console.log(horseNames[2] + " is outside!");
+}
+console.log(horseAges[2] + horseAges[1]); //combinding the horse age
+
+if(horseNames[0] === "Estabon") {
+    console.log("Hi Estabon!")
+}
+
+if(horseNames.length < 5) {
+    console.log("These stables are unpopular");
+}
+
+//Lab 6 Stuff
+
+let horseNamestwo = [horseName, "Jimbo", "Jimbob"];
+console.log(`Welcome to the Goober Stables, we have ${horseNamestwo.length} horses at our stable! Their silly cutie patootie names are ${horseNamestwo[0]}, ${horseNamestwo[1]}, ${horseNamestwo[2]}`);
+
+if(horseNamestwo[0]){ 
+    console.log(horseNamestwo[0] + " is outside")
+} else {
+    console.log(horseNamestwo[0])
+}
+
+if(horseNamestwo[1]){ 
+    console.log(horseNamestwo[1] + " is outside")
+} else {
+    console.log(horseNamestwo[1])
+}
+
+if(horseNamestwo[2]){ 
+    console.log(horseNamestwo[2] + " is outside")
+} else {
+    console.log(horseNamestwo[2])
+}
