@@ -54,4 +54,4 @@ Things you are unclear about
 3. git shortcuts
 -------------------------------------------------------------------------------------------------------
 Analogies
-!(https://media.tenor.com/557GUrcXp14AAAAM/jinx-cat-javascript.gif)
+![Cat gif](https://media.tenor.com/557GUrcXp14AAAAM/jinx-cat-javascript.gif)
