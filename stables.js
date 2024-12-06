@@ -7,7 +7,7 @@
 //               | ●    ●  |   ''((\())) "-._______________-__.-"`-.-,
 //                \       /'\    ''))))'                                \)))
 //                |      |   `.     ''                       X           ((((
-//                 \  _  )    /                                   X      |))))    ____
+//                 \  _  )    /                                   X      |))))    ____(
 //                  \_._./'   |                                         (((((())
 //                             \                       |                ))))))  ______
 //                              `|    |                ,\              ((((((          (
@@ -105,7 +105,7 @@ const newHorse = {
 horses.push(newHorse);
 
 
-//dot notation
+
 gloopglob.isHungry = false;
 dinglebottom.isHungry = true;
 goonari.isHungry = true;
@@ -185,8 +185,6 @@ function calculateLatefee(horse) {
 
 calculateLatefee(newHorse);
 
-// Create a function that logs out how much will an individual horse will owe if rent is
-// paid late. Invoke the function.
 
 function findhorsesFavtreat(treat) {
    for (let i = 0; i < horses.length; i++) {
@@ -201,17 +199,13 @@ function findhorsesFavtreat(treat) {
 
 findhorsesFavtreat("horse meat");
 
-// Add loop that checks to find out if a certain horse likes a treat. If the horse does not like
-// the treat, log out their disatisfaction and check the next horse. Exit the loop when you find
-// the horse that likes the treat.
 
 function horseNickname(goober) {
     return goober.nickname;
 }
 console.log(`${horseNickname(goonari)}`);
 
-// Create and invoke a function that returns (not logs) the nickname of a chosen horse. Log out
-// the return value outside of the function.
+
 
 //------------------------- Day to day operations -------------------------//
 
