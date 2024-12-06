@@ -22,17 +22,6 @@
 //                               | | | |                          || |  
 //                               /_|____|                         /____|
 //
-// This is a template for the final project. You'll be setting up a stable and making
-// sure it runs smoothly.
-//
-// You can copy and paste this into your stables.js file, and then use it to guide you.
-// Please do not create a new file!
-// Feel free to keep the headings (e.g.: "Variables"), but please delete any boilerplate
-// comments. (Your own comments, where necessary, are acceptable.)
-//
-// NOTE: UNLESS SPECIFIED, VARIABLE NAMING IS UP TO YOU. THERE SHOULD BE NO HARD-CODED
-// NUMBERS OR STRINGS WHERE VARIBALES WOULD BE PREFERRED.
-
 //------------------------- Seting up shop -------------------------//
 
 
